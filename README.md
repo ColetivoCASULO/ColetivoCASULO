@@ -1,16 +1,19 @@
-## Hi there 👋
+## Sobre o Coletivo Casulo
 
-<!--
-**ColetivoCASULO/ColetivoCASULO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+O **Coletivo Casulo** é formado por militantes que atuam no campo da **educação popular** e da **formação política de base**, além de contribuírem diretamente para a **organização das comunidades periféricas**.
 
-Here are some ideas to get you started:
+Organizado no final de **2018**, na **Região Metropolitana do Rio de Janeiro**, o coletivo vem desenvolvendo, desde então, uma série de iniciativas voltadas à formação crítica e à mobilização popular. Entre suas ações, destacam-se:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Projetos e cursos formativos
+- Oficinas e palestras
+- Debates e rodas de conversa
+
+Essas atividades abordam temas de interesse da **classe trabalhadora**, sempre a partir de uma perspectiva:
+
+- **Socialista**
+- **Interseccional**: classista, de gênero e antirracista
+- Inspirada na **pedagogia freiriana**
+
+O trabalho do coletivo busca fortalecer os vínculos entre teoria e prática, promovendo uma formação emancipadora e comprometida com a transformação social.
+
+Para saber mais, acesse: [https://coletivocasulo.org](https://coletivocasulo.org).
